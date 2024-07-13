@@ -6,7 +6,7 @@
     <title>MY FIRST ASSIGN-0319</title>
     <link rel="icon" href="./images/fav.jpg" type="image/x-icon">
     <link rel="stylesheet" href="styles/style.css">
-</head>
+</head> 
 <body>
     <header>
         <div class="logo">Muhammad Jashim Uddin</div>
